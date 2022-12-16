@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonSE.iml" filepath="$PROJECT_DIR$/.idea/pythonSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scanFTP/.idea/scanFTP.iml" filepath="$PROJECT_DIR$/../scanFTP/.idea/scanFTP.iml" />
     </modules>
   </component>
 </project>
